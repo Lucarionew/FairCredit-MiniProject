@@ -12,3 +12,4 @@ firebase-admin
 google-cloud-firestore
 google-cloud-storage
 requests
+scipy>=1.10.0,<1.16
