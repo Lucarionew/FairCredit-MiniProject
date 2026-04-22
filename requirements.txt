@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+fairlearn
+shap
+matplotlib
+seaborn
+joblib
+firebase-admin
+google-cloud-firestore
+google-cloud-storage
+requests
